@@ -1,0 +1,22 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.toast {
+    opacity: 1;
+    position: relative;
+    margin: 15px;
+}
+
+
+.toast small{
+    position: absolute;
+    right: 10px;
+}
+
+.toast-header{
+    align-items: flex-start;
+}
+
+.toast-header img{
+    height: 30px;
+    margin-right: 10px;
+}
